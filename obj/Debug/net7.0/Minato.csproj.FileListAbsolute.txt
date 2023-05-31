@@ -1,0 +1,15 @@
+D:\Zarylbekov Rabota\Minato\bin\Debug\net7.0\Minato.exe
+D:\Zarylbekov Rabota\Minato\bin\Debug\net7.0\Minato.deps.json
+D:\Zarylbekov Rabota\Minato\bin\Debug\net7.0\Minato.runtimeconfig.json
+D:\Zarylbekov Rabota\Minato\bin\Debug\net7.0\Minato.dll
+D:\Zarylbekov Rabota\Minato\bin\Debug\net7.0\Minato.pdb
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.csproj.AssemblyReference.cache
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.AssemblyInfoInputs.cache
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.AssemblyInfo.cs
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.csproj.CoreCompileInputs.cache
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.dll
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\refint\Minato.dll
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.pdb
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\Minato.genruntimeconfig.cache
+D:\Zarylbekov Rabota\Minato\obj\Debug\net7.0\ref\Minato.dll
